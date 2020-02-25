@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\najer\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\najer\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_GDDProject2.-384377631.00" t="ExcludeRecursive" />
+    <e p="C:\Users\najer\OneDrive\Documents\DeCal GameDev\GDDProject2" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PlayerHealth.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="CameraFocus.cs" t="Include" />
+          <e p="DestroyTimed.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="Protagonist.cs" t="Include" />
+          <e p="SpacePirateAI.cs" t="Include" />
+        </e>
+        <e p="Shooting.cs" t="Include" />
+      </e>
+      <e p="GDDProject2.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
